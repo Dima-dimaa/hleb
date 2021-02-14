@@ -1,0 +1,191 @@
+body {
+    background: url('ggq.jpg');
+    background-color: rgba(204, 204, 204, 0.22);
+    font-family: Arial;
+        
+}
+
+h1 {
+    font-size: 45px;
+    color: #000000;
+}
+
+.card {
+    width: 400px;
+    background-color: rgba(255, 255, 0, 0.66);
+    border-radius: 10px;
+    padding: 10px;
+    margin: -250 475px auto;
+    box-shadow: 0 5px 10px #000
+}
+
+.card-photo {
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+
+.vvv {
+    border-radius: 50px;
+    background-color: rgba(177, 230, 0, 0.78);
+    font-size: 20px;
+    text-align: center;
+    box-shadow: 0 5px 10px #000000;
+    list-style-position: inherit;
+}
+
+
+
+
+.xxx {
+    display: inline-block;
+    color: #000000;
+    vertical-align: top;
+    padding: 10px 30px;
+    background: #e27100;
+    cursor: pointer;
+    font-family: inherit;
+    font-size: 16px;
+    border-radius: 20px;
+    box-shadow: 0 5px 10px #000000;
+    text-decoration: none;
+}
+
+.xxx:hover,
+.xxx:focus {
+    background-color: blueviolet;
+}
+
+.cardd {
+    margin: 0;
+    width: 200px;
+    background-color: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.hoto {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.vvvv {
+    font-size: 20px;
+    text-align: center;
+    list-style-position: inherit;
+}
+
+
+
+
+.sdsd {
+    background-color: rgba(126, 96, 255, 0.68);
+    box-shadow: 0 5px 10px #000000;
+    text-shadow: 0.5px 1px #8379ff;
+    border-radius: 50px;
+}
+
+
+.dsd {
+    text-shadow: 1px 2px #ccc;
+    font-size: 50px;
+    color: #000;
+    text-align: center;
+    background-color: rgba(204, 204, 204, 0.33);
+    border-radius: 30px;
+    box-shadow: 0 5px 10px #000;
+}
+
+
+
+.carddd {
+    width: 200px;
+    background-color: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin: -280 1130 auto;
+   
+}
+
+.hotoo {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    
+}
+
+.vvvvv {
+    font-size: 20px;
+    text-align: center;
+    list-style-position: inherit;
+}
+
+
+
+
+.sdsdd {
+    background-color: rgba(126, 96, 255, 0.68);
+    box-shadow: 0 5px 10px #000000;
+    text-shadow: 0.5px 1px #8379ff;
+    border-radius: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
